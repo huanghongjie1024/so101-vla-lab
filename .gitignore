@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+outputs/
+checkpoints/
+*.mp4
+*.bag
+.DS_Store

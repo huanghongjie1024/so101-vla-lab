@@ -1,0 +1,18 @@
+site_name: SO101-VLA-Lab
+site_description: 从示范数据到 VLA 真机验证的实验记录
+site_url: https://YOUR_USERNAME.github.io/so101-vla-lab/
+repo_url: https://github.com/YOUR_USERNAME/so101-vla-lab
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+    - search.suggest
+nav:
+  - 首页: index.md
+  - 环境与版本: setup.md
+  - 每周记录: weekly-log/week-template.md
+  - 踩坑记录: troubleshooting/index.md
+  - 失败案例: failure-taxonomy.md
