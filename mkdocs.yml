@@ -1,7 +1,7 @@
 site_name: SO101-VLA-Lab
 site_description: 从示范数据到 VLA 真机验证的实验记录
-site_url: https://YOUR_USERNAME.github.io/so101-vla-lab/
-repo_url: https://github.com/YOUR_USERNAME/so101-vla-lab
+site_url: https://huanghongjie1024.github.io/so101-vla-lab/
+repo_url: https://github.com/huanghongjie1024/so101-vla-lab
 theme:
   name: material
   language: zh
