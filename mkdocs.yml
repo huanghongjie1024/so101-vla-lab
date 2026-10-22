@@ -14,6 +14,7 @@ nav:
   - 首页: index.md
   - 环境与版本: setup.md
   - 每周记录:
+      - 组装 Transformer 与 Mini-GPT: weekly-log/2026-10-21-mini-gpt.md
       - 位置编码与 Transformer 整体: weekly-log/2026-10-20-positional-encoding-transformer.md
       - Transformer 基础: weekly-log/2026-10-19-transformer-basics.md
       - 记录模板: weekly-log/week-template.md
